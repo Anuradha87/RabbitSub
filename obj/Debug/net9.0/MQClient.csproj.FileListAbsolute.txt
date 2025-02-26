@@ -1,0 +1,17 @@
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.csproj.AssemblyReference.cache
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.AssemblyInfoInputs.cache
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.AssemblyInfo.cs
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.csproj.CoreCompileInputs.cache
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/MQClient
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/MQClient.deps.json
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/MQClient.runtimeconfig.json
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/MQClient.dll
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/MQClient.pdb
+/Users/anuradhananayakkara/RiderProjects/MQClient/bin/Debug/net9.0/RabbitMQ.Client.dll
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.csproj.Up2Date
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.dll
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/refint/MQClient.dll
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.pdb
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/MQClient.genruntimeconfig.cache
+/Users/anuradhananayakkara/RiderProjects/MQClient/obj/Debug/net9.0/ref/MQClient.dll
